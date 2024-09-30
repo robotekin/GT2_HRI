@@ -14,13 +14,9 @@ El Grupo de Trabajo (`GT2`) de *Human-Robot Interaction* o Interacción Humano-R
 
 ## Objetivos
 
-1. Investigar y desarrollar interfaces de usuario avanzadas para la interacción con robots.
-2. Mejorar la comprensión y respuesta de los robots a las señales sociales y emocionales humanas.
-3. Diseñar e implementar algoritmos de aprendizaje automático para mejorar la adaptabilidad de los robots en entornos dinámicos.
-4. Desarrollar protocolos de seguridad robustos para garantizar interacciones seguras entre humanos y robots.
-5. Explorar aplicaciones innovadoras de HRI en campos como la asistencia médica, la educación y la industria.
-6. Fomentar la colaboración interdisciplinaria entre expertos en robótica, psicología, diseño y ciencias sociales.
-7. Contribuir al avance del estado del arte en HRI mediante publicaciones y participación en conferencias relevantes.
+1. Desarrollar comportamientos colaborativos y no agresivos entre máquinas y humanos, tomando como ejemplo el proyecto ROBOTCORE Collaborative de Acceleration Robotics e IKERLAN: [ROBOTCORE Collaborative](https://accelerationrobotics.com/robotcore-collaborative.php).
+2. Implementar inteligencia artificial generativa como puente para facilitar la interacción multimodal, sencilla e intuitiva con robots.
+3. Integrar tecnologías de realidad aumentada y computación espacial como elementos clave para mejorar la interacción y el uso de robots.
 
 
 ## Subproyectos
