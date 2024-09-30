@@ -25,7 +25,7 @@ Este Grupo de Trabajo posee y mantiene los siguientes Subproyectos. Sus reunione
 
 
 ### `ROBOTEKIN: Denominación vasca de origen para la robótica flexible y colaborativa con demostradores de interacción máquina-humano` (*nombre provisional*)
-  * Descripción: Desarrollo de interfaces intuitivas y eficientes para la interacción humano-robot.
+  * Descripción: Creación de una “denominación de origen vasca para la robótica” (véase, el “Rioja” de la robótica vasca). Se propone de forma preliminar usar “ROBOTEKIN” como denominación de origen, para hacer converger en la propia asociación el valor de la denominación, incentivando así la participación en esta misma. La creación de dicha denominación se realizará mediante el desarrollo de prototipos y pruebas de concepto de interfaces intuitivas y eficientes para la interacción humano-robot (HRI).
   * Repositorios
     * N/A (por ahora)
 
